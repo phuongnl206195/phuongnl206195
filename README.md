@@ -1,5 +1,5 @@
 ### Hi there 👋
-With 10 year experience about software engineer. I'm Nguyen Long Phuong as a developer
+I'm Nguyen Long Phuong, a developer
 What can i help you?
 - 🌱 I’m currently learning ...
 - - 💬 Ask me about ...
