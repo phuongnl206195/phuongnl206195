@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Nguyen Long Phuong, a developer
+I'm Nguyen Long Phuong, a developer.
 What can i help you?
 - 🌱 I’m currently learning ...
 - - 💬 Ask me about ...
